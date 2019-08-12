@@ -10,6 +10,6 @@ export function usePreviewThumb() {
             radius="50%"
             background={{ src: url(`../metadata/icon.svg`) }}
             size="100%"
-        ></Frame>
+        />
     )
 }
