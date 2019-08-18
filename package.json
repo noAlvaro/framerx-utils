@@ -1,0 +1,12 @@
+{
+  "name": "framerx-utils",
+  "version": "1.0.0",
+  "description": "Framer X boilerplate",
+  "license": "GPL-3.0-only",
+  "repository": "noAlvaro/framerx-utils",
+  "keywords": [
+    "framer",
+    "framer x",
+    "prototype"
+  ]
+}
